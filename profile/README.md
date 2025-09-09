@@ -15,3 +15,13 @@ Haulpak Systems focuses on delivering cutting-edge technology solutions that enh
 **Haulpak Systems** - Driving efficiency and innovation in mining operations through advanced IoT and software solutions.
 
 For technical support and business inquiries, please refer to the project-specific documentation in each system directory.
+
+---
+
+## Haulpak Projects
+
+| No | Project | Link |
+|----|------------|------|
+| 1 | **Haulpak** | [Link here](https://github.com/Haulpak-Systems/haulpak-profile) |
+| 2 | **Sonoma** | [Link here](https://github.com/Haulpak-Systems/sonoma-profile) |
+| 3 | **Tarrawonga** | [Link here](https://github.com/Haulpak-Systems/tarrawonga-profile) |
