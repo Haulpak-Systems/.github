@@ -25,3 +25,4 @@ For technical support and business inquiries, please refer to the project-specif
 | 1 | **Haulpak** | [Link here](https://github.com/Haulpak-Systems/haulpak-profile) |
 | 2 | **Sonoma** | [Link here](https://github.com/Haulpak-Systems/sonoma-profile) |
 | 3 | **Tarrawonga** | [Link here](https://github.com/Haulpak-Systems/tarrawonga-profile) |
+| 4 | **Mineview** | [Link here](https://github.com/Haulpak-Systems/mineview-documentation)
